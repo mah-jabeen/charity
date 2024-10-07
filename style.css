@@ -9,3 +9,16 @@
     background-color: orange;
     color: white; 
 }
+
+.carousel {
+    height: 300px; /* Adjust the height as needed */
+    background-color: orange; /* Set the background color to match the image */
+  }
+  
+  .carousel-caption h5 {
+    color: #fff; /* Set the text color to white */
+  }
+  
+  .carousel-caption p {
+    color: #fff; /* Set the text color to white */
+  }
