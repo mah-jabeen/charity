@@ -49,7 +49,7 @@ $('.owl-carousel1').owlCarousel({
     }
 })
 
-// section-04
+// section04
 $('.owl-carousel').owlCarousel({
     loop: true,
     margin: 12,
